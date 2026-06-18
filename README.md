@@ -15,20 +15,28 @@ Datasets
 **The project uses two datasets:**
 
 CovidDeaths
+
 CovidVaccinations
 
 **Key fields analyzed include:**
 
 -Location
+
 -Date
+
 -Population
+
 -Total Cases
+
 -New Cases
+
 -Total Deaths
+
 -New Deaths
+
 -Vaccinations
 
-Business Questions Explored
+**Business Questions Explored**
 1. What is the likelihood of death after contracting COVID-19?
 
 Analyzed total cases versus total deaths to calculate the death percentage for specific countries.
@@ -51,28 +59,46 @@ Joined death and vaccination datasets to support deeper analysis and visualizati
 
 **SQL Skills Demonstrated**
 -SELECT Statements
+
 -Filtering with WHERE
+
 -Aggregate Functions (SUM, MAX)
+
 -GROUP BY
+
 -ORDER BY
+
 -JOIN Operations
+
 -Data Type Conversion using CAST()
+
 -Percentage Calculations
+
 -Data Exploration Techniques
 
 **Key Insights**
+
 -Countries experienced significantly different infection rates relative to their population sizes.
+
 -Death counts varied widely across regions.
+
 -Infection rates often exceeded expectations when adjusted for population.
+
 -Global death percentages provided a broader view of the pandemic's impact.
+
 -Tableau Dashboard
 
 The SQL analysis was used to create Tableau visualizations that highlight:
 
+
 -Global COVID-19 cases
+
 -Death counts by country
+
 -Infection rates by population
+
 -Pandemic trends over time
+
 
 
 
