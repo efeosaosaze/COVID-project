@@ -58,6 +58,7 @@ Compared total deaths across countries to identify those most affected by the pa
 Joined death and vaccination datasets to support deeper analysis and visualization.
 
 **SQL Skills Demonstrated**
+
 -SELECT Statements
 
 -Filtering with WHERE
