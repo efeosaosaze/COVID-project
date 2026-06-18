@@ -5,8 +5,11 @@ The goal was to transform raw COVID-19 datasets into meaningful insights that ca
 
 **Tools Used**
 Microsoft SQL Server
+
 SQL Server Management Studio
+
 Tableau (for visualization)
+
 Datasets
 
 **The project uses two datasets:**
